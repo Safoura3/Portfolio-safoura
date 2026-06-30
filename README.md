@@ -4,7 +4,7 @@ Site portfolio personnel : créatif, animé et responsive. La photo est **intég
 directement** dans `index.html` (elle s'affiche partout, sans fichier séparé).
 
 ## Contenu
-- `index.html` — le site complet (HTML, CSS, JavaScript et photo inclus)
+- `index.html` — le site complet (HTML, CSS, JavaScript)
 - `CV_Safoura_MAMBOUNE_NDAM.pdf` — le CV téléchargeable depuis le site
 
 ## Voir le site
